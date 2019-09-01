@@ -202,7 +202,7 @@ div.min{
   -o-animation: bounceIn 12s linear infinite;
   -sand-animation: bounceIn 12s linear infinite;
   animation: bounceIn 12s linear infinite;
-  background-image     : url(http://sdssoftwares.co.uk/images/web-development-agency.jpg);
+  background-image     : url(image/background-org.jpg);
   background-repeat    : no-repeat;
   background-size      : cover;
   background-attachment: fixed;
@@ -334,7 +334,6 @@ a#icon5{
 {
   opacity:1;
   -webkit-transform:scale(1);
-  -moz-transform:scale(1);
   -ms-transform:scale(1);
   -o-transform:scale(1);
   -sand-transform:scale(1);
