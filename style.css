@@ -60,7 +60,7 @@ div.min{
   -o-animation: bounceIn 12s linear infinite;
   -sand-animation: bounceIn 12s linear infinite;
   animation: bounceIn 12s linear infinite;
-  background-image     : url(image/background-org.jpg);
+  background-image     : url(background-org.jpg);
   background-repeat    : no-repeat;
   background-size      : cover;
   background-attachment: fixed;
