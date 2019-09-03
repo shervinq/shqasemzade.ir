@@ -4,11 +4,11 @@
 }
 @font-face{
   font-family: 'IRANsans';
-  src        : url(font/IRANSansWeb.ttf);
+  src: url(font/IRANSansWeb.ttf);
 }
 @font-face{
   font-family: 'IRANsans-bold';
-  src        : url(font/IRANSansWeb_Bold.ttf);
+  src: url(font/IRANSansWeb_Bold.ttf);
 }
 @keyframes example {
   0%   {
