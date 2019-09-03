@@ -60,7 +60,7 @@ div.min{
   -o-animation: bounceIn 12s linear infinite;
   -sand-animation: bounceIn 12s linear infinite;
   animation: bounceIn 12s linear infinite;
-  background-image     : url(image/background-org.jpg);
+  background-image     : url(https://assets.awwwards.com/awards/submissions/2016/06/5763db4c7cde0.jpeg);
   background-repeat    : no-repeat;
   background-size      : cover;
   background-attachment: fixed;
@@ -102,7 +102,7 @@ div.main h1{
   font-size : 50px;
   right: 37%;
   top: 54%;
-  color: white;
+  color: black;
   animation : 3s ease 1s normal forwards 1 example;
   visibility: hidden;
 }
