@@ -11,3 +11,7 @@ h6{
   font-weight: 400;
   font-size: 14px;
 }
+.overlay {
+    color: #FFFFFF;
+    background-color: rgba(0,0,0,.6);
+}
